@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img width="200px" height="40px" align="center"src="./README/MySql.png">
+    <img width="300px" height="60px" align="center"src="./README/MySql.png">
 </div>
 
 <br>
@@ -9,6 +9,8 @@
    - [Sobre](#sobre)
    - [Tecnologias](#tecnologias-utilizadas)
    - [Habilidades](#habilidades-desenvolvidas)
+   - [Instruções](#instruções)
+#
 
 # Sobre
 
@@ -17,8 +19,8 @@
 #
 
 # Tecnologias utilizadas
-- SQL
-- MySQL Workbench
+- [SQL](https://www.w3schools.com/sql/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 #
 
@@ -40,3 +42,24 @@
     - INSERT
     - UPDATE
     - DELETE
+#
+
+# Instruções
+
+```bash
+    # Clonar repositório
+
+    $ git clone git@github.com:furquin/introducao-mySql.git
+
+    # Entrar no diretório
+
+    $ cd introducao-mySql
+
+```
+
+<br>
+<br>
+<br>
+
+### Desenvolvido por [Laert Furquin](https://github.com/furquin) 
+
