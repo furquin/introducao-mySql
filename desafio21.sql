@@ -2,3 +2,4 @@ INSERT INTO order_details (order_id, product_id, quantity, unit_price, discount,
 VALUES (69, 80, 15.0000, 15.0000, 0, 2, 129),  
        (69, 80, 15.0000, 15.0000, 0, 2, 129);
 
+--* Requisito: Adicione com um único INSERT, duas linhas à tabela order_details

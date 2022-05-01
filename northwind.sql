@@ -1,6 +1,4 @@
-SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
-SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
-SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+--! Este arquivo é de direito e autoria da trybe, mantido apenas para melhor entendimentos dos desafios descritos. 
 
 DROP database IF EXISTS `northwind` ;
 CREATE database IF NOT EXISTS `northwind` DEFAULT CHARACTER SET latin1 ;
